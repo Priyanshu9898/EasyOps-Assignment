@@ -1,7 +1,7 @@
 
 # Contact Management App
 
-## Live Website: https://frontend-assignment-alpha.vercel.app/
+## Live Website: https://easy-ops-assignment-three.vercel.app/
 
 ## Project Description:
 
